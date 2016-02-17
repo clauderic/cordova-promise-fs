@@ -1,5 +1,5 @@
 {
-  "name": "cordova-promise-fs",
+  "name": "@peoplelikeus/cordova-promise-fs",
   "version": "1.0.1",
   "description": "Cordova FileSystem convienence functions that return promises.",
   "main": "index.js",
@@ -19,5 +19,9 @@
     "promise"
   ],
   "author": "Mark Marijnissen",
+  "contributors": [{
+    "name": "Clauderic Demers",
+    "email": "clauderic@peoplelikeus.ca"
+  }]
   "license": "MIT"
 }
